@@ -1,0 +1,11 @@
+{
+  "name": "add-git-path-webpack-plugin",
+  "version": "1.0.0",
+  "description": "功能：将webpack项目产出的js和css文件后加上git的路径",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
